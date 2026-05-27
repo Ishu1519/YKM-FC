@@ -5,16 +5,16 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=YKM-FC&fontSize=80&color=0:0a0a0a,100:1a1a2e&stroke=00ff88&strokeWidth=2&fontColor=00ff88&animation=fadeIn" width="100%"/>
 
 ```
-                          ╔═══════════════════════════════════════════════════════════════╗
-                          ║  ██╗   ██╗██╗  ██╗███╗   ███╗    ███████╗ ██████╗             ║
-                          ║  ╚██╗ ██╔╝██║ ██╔╝████╗ ████║    ██╔════╝██╔════╝             ║
-                          ║   ╚████╔╝ █████╔╝ ██╔████╔██║    █████╗  ██║                  ║
-                          ║    ╚██╔╝  ██╔═██╗ ██║╚██╔╝██║    ██╔══╝  ██║                  ║
-                          ║     ██║   ██║  ██╗██║ ╚═╝ ██║    ██║     ╚██████╗             ║
-                          ║     ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝      ╚═════╝             ║
-                          ║                                                               ║
-                          ║          ESP32-C3 · MICRO DRONE FLIGHT CONTROLLER             ║
-                          ╚═══════════════════════════════════════════════════════════════╝
+                                      ╔═══════════════════════════════════════════════════════════════╗
+                                      ║  ██╗   ██╗██╗  ██╗███╗   ███╗    ███████╗ ██████╗             ║
+                                      ║  ╚██╗ ██╔╝██║ ██╔╝████╗ ████║    ██╔════╝██╔════╝             ║
+                                      ║   ╚████╔╝ █████╔╝ ██╔████╔██║    █████╗  ██║                  ║
+                                      ║    ╚██╔╝  ██╔═██╗ ██║╚██╔╝██║    ██╔══╝  ██║                  ║
+                                      ║     ██║   ██║  ██╗██║ ╚═╝ ██║    ██║     ╚██████╗             ║
+                                      ║     ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝      ╚═════╝             ║
+                                      ║                                                               ║
+                                      ║          ESP32-C3 · MICRO DRONE FLIGHT CONTROLLER             ║
+                                      ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=First+ESP32-C3+Betaflight+Flight+Controller;Custom+Discrete+MOSFET+Motor+Driver;816+Coreless+%7C+WiFi+Autonomous+Hover;Built+from+scratch.+No+shortcuts." alt="Typing SVG" />

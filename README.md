@@ -178,7 +178,7 @@ save
 - [x] Firmware compiled for ESP32-C3
 - [x] Betaflight configurator connected
 - [x] Motor GPIO mapping defined
-- [ ] MPU6050 integration verified
+- [x] MPU6050 integration verified
 - [ ] Motor driver PCB assembled
 - [ ] First armed spin test
 - [ ] PID tuning on test rig

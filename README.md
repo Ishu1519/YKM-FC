@@ -179,8 +179,8 @@ save
 - [x] Betaflight configurator connected
 - [x] Motor GPIO mapping defined
 - [x] MPU6050 integration verified
-- [ ] Motor driver PCB assembled
-- [ ] First armed spin test
+- [x] Motor driver PCB assembled
+- [x] First armed spin test
 - [ ] PID tuning on test rig
 - [ ] First autonomous hover
 - [ ] WiFi telemetry stream

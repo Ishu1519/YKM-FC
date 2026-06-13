@@ -115,7 +115,7 @@ Cost per channel: ~₹15. Total driver cost: ~₹60.
 ## Real model look
 
 <img width="1500" height="1500" alt="WhatsApp Image 2026-06-13 at 3 52 01 AM" src="https://github.com/user-attachments/assets/aa4fab95-bdf8-4e63-b461-b7aab244039d" />
-
+** where, it's dimensions are 40mmX40mm with hight of 11mm of mid ring and 15mm of motor holder **
 
 ## 🚀 Firmware
 
@@ -186,10 +186,10 @@ save
 - [x] MPU6050 integration verified
 - [x] Motor driver PCB assembled
 - [x] First armed spin test
-- [ ] PID tuning on test rig
+- [x] PID tuning on test rig
 - [ ] First autonomous hover
-- [ ] WiFi telemetry stream
-- [ ] Conference/paper submission
+- [x] WiFi telemetry stream
+- [x] Conference/paper submission
 
 ---
 

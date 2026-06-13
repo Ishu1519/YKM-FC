@@ -112,7 +112,7 @@ Cost per channel: ~₹15. Total driver cost: ~₹60.
 
 ---
 
-##Real model look
+## Real model look
 
 <img width="1500" height="1500" alt="WhatsApp Image 2026-06-13 at 3 52 01 AM" src="https://github.com/user-attachments/assets/aa4fab95-bdf8-4e63-b461-b7aab244039d" />
 
